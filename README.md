@@ -4,6 +4,8 @@ Fervis Horizon is an innovative web application that integrates AI-powered emoti
 
 ![Alt text](./Output/Output1.png)
 
+![Alt text](./Output/Output2.png)
+
 ## Features
 
 - **AI Integration**: Powered by **Fervis**, an AI built using Hume AI's **EVI model**, Fervis Horizon can recognize and respond to users' emotions dynamically.
